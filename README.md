@@ -1,4 +1,4 @@
-##Intro
+##Intro<br/>
 This is my first react app I've built with no tutorials.
 the web app is based on a static web page I built before I wanted to try somthing I was familiar with.
 
