@@ -7,7 +7,7 @@ the web app is based on a static web page I built before I wanted to try somthin
 
 
 ##socials
-[Linkedin: https:](//www.linkedin.com/in/willie-morris-0b2571229/)
-[Frontendmentor:](https://www.frontendmentor.io/profile/Willie10r)
-[Github:](https://github.com/willie10r)
+[Linkedin:](//www.linkedin.com/in/willie-morris-0b2571229/)<br/>
+[Frontendmentor:](https://www.frontendmentor.io/profile/Willie10r),
+[Github:](https://github.com/willie10r),
 [Instagram:](https://www.instagram.com/zx10rwillie/)
