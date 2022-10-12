@@ -5,12 +5,14 @@ const Header = () => {
     <header>
     <img
       className="prod-picture-sm"
-      src='../images/image-product-mobile.jpg'
+      // have to add images in react linke this
+      src={require('../images/image-product-mobile.jpg')}
     // src="./images/image-product-mobile.jpg"
       alt="perfume bottle next to leave's"
     />
     <img
       className="prod-picture-lg"
+      src={require('../images/image-product-desktop.jpg')}
     //   src="./images/image-product-desktop.jpg"
       alt="perfume bottle next to leave's"
     />

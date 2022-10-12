@@ -1,0 +1,26 @@
+@use '../utilities/' as var;
+h3 {
+color: var.$newt-dark-grayish-blue;
+font-family: 'Montserrat', sans-serif;
+}
+.product-name {
+color: var.$newt-very-dark-blue;
+font-family: 'Fraunces', serif;
+font-weight: bold;
+}
+.prod-info {
+color: var.$newt-dark-grayish-blue;
+font-family: 'Montserrat', sans-serif;
+font-size: 14px;
+}
+.prod-price-after {
+color: var.$prim-dark-cyan;
+font-family: 'Fraunces', serif;
+font-weight: bold;
+}
+.prod-price-before {
+    font-family: 'Montserrat', sans-serif;
+}
+.atc {
+    font-family: 'Montserrat', sans-serif;
+}

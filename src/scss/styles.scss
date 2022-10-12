@@ -1,0 +1,34 @@
+@use './base';
+@use './components';
+@use './utilities';
+
+@media (min-width: 720px) {
+  main {
+    border-radius: 0 1rem 1rem 0;
+  }
+  .text-container {
+   margin: 30px 40px 0 40px;
+  }
+    .prod-picture-sm {
+      display: none;
+    }
+    .prod-picture-lg {
+      display: block;
+      width: 320px;
+      border-radius:  1rem 0 0 1rem ;
+     
+    }
+    .grid-container {
+      display: flex;
+      flex-direction: row;
+      margin: 100px auto auto auto;
+      width: 600px;
+
+    }
+  .atc {
+    padding-left: 55px;
+  }
+  .prod-price-before {
+    margin-left: 10px;
+  }
+  }
